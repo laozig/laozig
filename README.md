@@ -15,7 +15,7 @@
 
 ## 🚀 技术栈
 
-- 🧱 **Languages**：Python | JavaScript | TypeScript | Go | Rust（在学）
+- 🧱 **Languages**：Python | JavaScript | TypeScript | Java | Rust |易语言（在学）
 - 💡 **Frameworks**：FastAPI | Flask | Node.js | Vue | React | PyQt
 - 📦 **DevOps**：Docker | GitHub Actions | Nginx | PM2
 - ☁️ **Cloud/VPS**：AWS | FlapJacks IPv6 VPS | Railway | Vercel
