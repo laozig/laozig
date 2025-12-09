@@ -3,6 +3,8 @@
 > 编程是我与世界沟通的方式。代码是诗，终将通向自由。
 
 ---
+[![访客IP信息卡片](https://my.ippure.com/v1/card)](https://ippure.com "点击查看IP信息")
+---
 
 ## 💻 关于我
 
