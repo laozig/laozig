@@ -1,74 +1,25 @@
-<pre align="center">
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/190365728?v=4" width="120" style="border-radius:50%" />
+</p>
 
-  ▄▄▄▄▄▄▄    ▄▄▄▄▄▄▄    ▄▄▄▄▄▄   ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ ▄▄▄▄▄▄▄ 
-  █       █  █       █  █      █ █       █       █       █
-  █    ▄  █  █   ▄   █ █  ▄    █▄     ▄█   ▄▄▄▄█    ▄▄▄█
-  █   █▄█ █  █  █ █  █ █ █ █   █ █   █ █  █  ▄▄█   █▄▄▄ 
-  █      ▄█  █  █▄█  █ █ █▄█   █ █   █ █  █ █  █    ▄▄▄█
-  █     █▄   █       █ █       █ █   █ █  █▄▄█ █   █▄▄▄ 
-  █▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█▄▄▄▄▄▄▄█
+<p align="center">
+  <samp>laozig · Reverse Engineer · Automation Builder</samp>
+</p>
 
-</pre>
+<p align="center">
+  <a href="https://github.com/laozig"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" /></a>
+  <a href="https://github.com/laozig"><img src="https://img.shields.io/badge/Frida-EF2D5B?style=flat&logo=frida" /></a>
+  <a href="https://github.com/laozig"><img src="https://img.shields.io/badge/APK_Reverse-3DDC84?style=flat&logo=android" /></a>
+  <a href="https://github.com/laozig"><img src="https://img.shields.io/badge/Automation-FF6F00?style=flat&logo=robotframework" /></a>
+</p>
 
-<pre>
-root@github:~# <b>cat /etc/motd</b>
-
-   ╔══════════════════════════════════════════════════════╗
-   ║  REVERSE ENGINEER  ·  AUTOMATION  ·  INDIE HACKER  ║
-   ║                                                      ║
-   ║  "Build with soul, not just code."                   ║
-   ╚══════════════════════════════════════════════════════╝
-</pre>
-
----
-
-<pre>
-root@github:~# <b>whoami</b>
-
-  alias    │ laozig / 老资格
-  role     │ Reverse Engineer & Automation Builder
-  base     │ Edge of the Internet
-  editor   │ nvim
-  os       │ arch btw
-
-root@github:~# <b>cat /proc/skills</b>
-
-  REVERSE   │ Frida · JADX · IDA Pro · Xposed · Apktool · Ghidra
-  LANG      │ Python · JavaScript · TypeScript · Java · Rust
-  FRAMEWORK │ FastAPI · Node.js · Express · PyQt · Vue · React
-  INFRA     │ Docker · Nginx · PM2 · GitHub Actions
-  DATA      │ PostgreSQL · SQLite · Redis · MongoDB
-
-root@github:~# <b>ls -la ~/projects/</b>
-
-  drwxr-xr-x  <span style="color:#00f0ff">js_workers</span>    NodeGet edge workers: traffic / stream / notify / docker
-  drwxr-xr-x  <span style="color:#00f0ff">ScrcpyQt</span>      C++/Qt6 Android mirror & control GUI
-  drwxr-xr-x  <span style="color:#00f0ff">frida-hook</span>    Frida hook scripts for Android/iOS reversing
-  drwxr-xr-x  <span style="color:#00f0ff">captcha_</span>      Captcha recognition & anti-bot automation
-  drwxr-xr-x  <span style="color:#00f0ff">picui</span>        PyQt image processing toolbox
-
-root@github:~# <b>neofetch</b>
-
-  <span style="color:#00f0ff">    ⣴⣶⣶⣶⣶⣶⣶⣶⣶⣦    </span>  <span style="color:#00f0ff">laozig</span>@github
-  <span style="color:#00f0ff">   ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧   </span>  ───────────────
-  <span style="color:#00f0ff">  ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧  </span>  OS: Arch Linux
-  <span style="color:#00f0ff"> ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧ </span>  Shell: zsh
-  <span style="color:#00f0ff"> ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ </span>  Editor: nvim
-  <span style="color:#00f0ff"> ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ </span>  Focus: reverse :: automate :: ship
-  <span style="color:#00f0ff"> ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ </span>  Uptime: ∞
-  <span style="color:#00f0ff"> ⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛ </span>  <span style="color:#555">████████████████████████</span>
-  <span style="color:#00f0ff"> ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ </span>  <span style="color:#0f0">██████████████</span><span style="color:#555">██████████</span>
-  <span style="color:#00f0ff"> ⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿ </span>  repo: 26  ·  stars: ∞  ·  commits: ∞
-</pre>
-
----
-
-<pre>
-root@github:~# <b>finger laozig</b>
-
-  Login: laozig         Name: laozig
-  Mail:  laozig86@gmail.com
-  WWW:   laozig.me
-
-root@github:~# <b><span style="color:#0f0">■</span></b>
-</pre>
+<p align="center">
+  <samp>
+    <a href="https://github.com/laozig">github</a> ·
+    <a href="mailto:laozig86@gmail.com">email</a> ·
+    <a href="https://laozig.me">homepage</a> ·
+    <a href="https://github.com/laozig/js_workers">js_workers</a> ·
+    <a href="https://github.com/laozig/Scrcpy">ScrcpyQt</a> ·
+    <a href="https://github.com/laozig/frdia-hook">frida-hook</a>
+  </samp>
+</p>
