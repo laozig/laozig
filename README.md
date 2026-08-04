@@ -93,16 +93,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Streak Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=laozig&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laozig&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=c9d1d9&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=laozig&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=888888" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=laozig&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=888888" />
-</p>
+### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=laozig&bg_color=0D1117&color=00f0ff&line=ff00ff&point=ffffff&hide_border=true&area=true" />
