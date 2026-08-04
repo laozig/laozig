@@ -18,8 +18,6 @@
   <a href="https://laozig.me"><img src="https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 </p>
 
-<br/>
-
 ---
 
 ### 🧰 Tech Stack
@@ -53,23 +51,13 @@
 
 ### 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/laozig/js_workers">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=laozig&repo=js_workers&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/laozig/Scrcpy">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=laozig&repo=Scrcpy&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/laozig/frdia-hook">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=laozig&repo=frdia-hook&description=Frida+hook+scripts+for+Android%2FiOS&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
-  </a>
-  <a href="https://github.com/laozig/captcha_">
-    <img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=laozig&repo=captcha_&description=Captcha+recognition+%26+anti-bot+automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
-  </a>
-</p>
+| Project | Stack | Description |
+|---|---|---|
+| [**js_workers**](https://github.com/laozig/js_workers) | QuickJS · NodeGet | Edge workers: traffic billing, stream unlock, notify, Docker mgmt |
+| [**ScrcpyQt**](https://github.com/laozig/Scrcpy) | C++ · Qt 6 | Android mirror & control GUI, multi-device management |
+| [**frida-hook**](https://github.com/laozig/frdia-hook) | Frida · JavaScript | Android/iOS reverse engineering hook scripts |
+| [**captcha_**](https://github.com/laozig/captcha_) | Python · ML | Captcha recognition & anti-bot automation |
+| [**picui**](https://github.com/laozig/picui) | Python · PyQt | Image processing GUI tool |
 
 ---
 
@@ -82,10 +70,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.vercel.app/?user=laozig&theme=tokyonight&hide_border=true&background=0D1117&ring=00f0ff&fire=ff00ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=888888" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=laozig&bg_color=0D1117&color=00f0ff&line=ff00ff&point=ffffff&hide_border=true&area=true" />
 </p>
 
 ---
