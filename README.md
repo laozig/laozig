@@ -16,7 +16,25 @@
   <a href="https://github.com/laozig"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:laozig86@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://laozig.me"><img src="https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/laozig?tab=repositories"><img src="https://img.shields.io/badge/Repos-26-00f0ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+---
+
+### 👤 $ whoami
+
+```yaml
+name: laozig · 老资格
+role: Reverse Engineer, Automation Builder, Indie Hacker
+focus:
+  - APK/DEX/SO Reverse Engineering & Anti-Reverse
+  - JS Deobfuscation & Web Sign/Token Reversal
+  - Captcha Bypass: Geetest v3/v4, DingXiang, NetEase, Tencent
+  - Registration Machines & Batch Automation
+  - Anti-Bot Fingerprint & TLS/JA3 Bypass
+  - Native SO Analysis: Frida, IDA Pro, Unidbg, Ghidra
+motto: "Build with soul, not just code."
+```
 
 ---
 
@@ -83,13 +101,25 @@
 
 ### 📌 Featured Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| [**js_workers**](https://github.com/laozig/js_workers) | QuickJS · NodeGet | Edge workers: traffic billing, stream unlock, notify, Docker mgmt |
-| [**ScrcpyQt**](https://github.com/laozig/Scrcpy) | C++ · Qt 6 | Android mirror & control GUI, multi-device management |
-| [**frida-hook**](https://github.com/laozig/frdia-hook) | Frida · JavaScript | Android/iOS reverse engineering hook scripts |
-| [**captcha_**](https://github.com/laozig/captcha_) | Python · ML | Captcha recognition & anti-bot automation |
-| [**picui**](https://github.com/laozig/picui) | Python · PyQt | Image processing GUI tool |
+| 🏷️ | Project | Stack | Description |
+|:--:|----------|-------|-------------|
+| 🔧 | [**js_workers**](https://github.com/laozig/js_workers) | QuickJS · NodeGet | Edge workers: traffic billing, stream unlock, notify, Docker mgmt |
+| 📱 | [**ScrcpyQt**](https://github.com/laozig/Scrcpy) | C++ · Qt 6 | Android mirror & control GUI, multi-device management |
+| 🪝 | [**frida-hook**](https://github.com/laozig/frdia-hook) | Frida · JavaScript | Android/iOS reverse engineering hook scripts |
+| 🤖 | [**captcha_**](https://github.com/laozig/captcha_) | Python · ML | Captcha recognition & anti-bot automation |
+| 🖼️ | [**picui**](https://github.com/laozig/picui) | Python · PyQt | Image processing GUI tool |
+| 🚗 | [**futian-mall**](https://github.com/laozig/futian-mall) | Python · FastAPI | Mall order management, payment & points scanner |
+| 📡 | [**laozig-StatusShow**](https://github.com/laozig/laozig-StatusShow) | HTML · JavaScript | NodeGet status display theme with traffic & stream info |
+| 🛡️ | [**geetest3_pingan**](https://github.com/laozig/geetest3_pingan) | Python · Frida | Geetest v3 captcha bypass for PingAn |
+| 📊 | [**texttable**](https://github.com/laozig/texttable) | Python | Text-based table formatting & rendering tool |
+| 📦 | [**vaultwarden-backup**](https://github.com/laozig/vaultwarden-backup) | Shell · Docker | Automated Vaultwarden backup with GitHub Actions |
+| 📬 | [**Sms**](https://github.com/laozig/Sms) | Python | SMS bombing & batch messaging tool |
+| 🧪 | [**cainiao**](https://github.com/laozig/cainiao) | Python | Cainiao logistics automation scripts |
+| 🔐 | [**dx**](https://github.com/laozig/dx) | Python | DingXiang captcha analysis & bypass |
+| 📖 | [**archive**](https://github.com/laozig/archive) | Python | Archive & backup utility scripts |
+| 🎯 | [**tencent_captcha**](https://github.com/laozig/tencent_captcha) | Python | Tencent captcha bypass research |
+
+> See all 26 repos → [github.com/laozig?tab=repositories](https://github.com/laozig?tab=repositories)
 
 ---
 
