@@ -61,6 +61,17 @@
 
 ---
 
+### 📊 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=laozig&bg_color=0D1117&color=00f0ff&line=00f0ff&point=ff00ff&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph/?username=laozig&bg_color=0D1117&color=00f0ff&line=00f0ff&point=ff00ff&hide_border=true&area=true" />
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=80&section=footer" />
 </p>
