@@ -93,26 +93,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=laozig&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=6&title=MultiLanguage,Commits,Followers,Stars,Repositories,Experience" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/laozig/laozig/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/laozig/laozig/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/laozig/laozig/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
----
-
 ### 📊 Contribution Graph
 
 <p align="center">
@@ -126,4 +106,8 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=80&section=footer" />
+</p>
+
+<p align="center">
+  <samp>© 2026 laozig · 老资格</samp>
 </p>
